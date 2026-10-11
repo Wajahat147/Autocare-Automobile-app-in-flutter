@@ -1,0 +1,9 @@
+{
+  "dart.flutterSdkPath": "C:\\Users\\user\\development\\flutter",
+  "dart.defaultRunDebugTarget": "chrome",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\user\\development\\flutter\\bin;C:\\Program Files\\Microsoft\\jdk-17.0.20.101-hotspot\\bin;C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\platform-tools;${env:PATH}",
+    "JAVA_HOME": "C:\\Program Files\\Microsoft\\jdk-17.0.20.101-hotspot",
+    "ANDROID_HOME": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk"
+  }
+}

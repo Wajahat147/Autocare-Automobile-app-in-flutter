@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run AutoCare (Chrome Mobile Preview)",
+      "type": "shell",
+      "command": "C:\\Users\\user\\development\\flutter\\bin\\flutter.bat run -d chrome",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Start Android Phone Emulator",
+      "type": "shell",
+      "command": "C:\\Users\\user\\AppData\\AndroidCLI\\android.exe emulator start medium_phone",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}
